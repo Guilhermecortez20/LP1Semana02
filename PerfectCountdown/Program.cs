@@ -30,7 +30,7 @@ namespace PerfectCountdown
             }
             else if (start % step > 0)
             {
-                Console.WriteLine(".Start not divisible by step. Try again.");
+                Console.WriteLine("Start not divisible by step. Try again.");
             }
 
             
