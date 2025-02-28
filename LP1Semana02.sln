@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cilindro", "Cilindro\Cilind
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValoresEspeciais", "ValoresEspeciais\ValoresEspeciais.csproj", "{59FD43AE-2903-4E00-A206-DB506695D2EB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BreakContinue", "BreakContinue\BreakContinue.csproj", "{641A722F-85CA-4BF7-9754-F9D0C955CD62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatGPTOne", "ChatGPTOne\ChatGPTOne.csproj", "{3E21CB57-002C-46A4-BFE3-C074EAA03E76}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +40,13 @@ Global
 		{59FD43AE-2903-4E00-A206-DB506695D2EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{59FD43AE-2903-4E00-A206-DB506695D2EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{59FD43AE-2903-4E00-A206-DB506695D2EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{641A722F-85CA-4BF7-9754-F9D0C955CD62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{641A722F-85CA-4BF7-9754-F9D0C955CD62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{641A722F-85CA-4BF7-9754-F9D0C955CD62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{641A722F-85CA-4BF7-9754-F9D0C955CD62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E21CB57-002C-46A4-BFE3-C074EAA03E76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E21CB57-002C-46A4-BFE3-C074EAA03E76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E21CB57-002C-46A4-BFE3-C074EAA03E76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E21CB57-002C-46A4-BFE3-C074EAA03E76}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
